@@ -121,3 +121,28 @@ span {
     font-size: 21px;
     margin-left: 380px;
 }
+
+
+/* section four */
+
+.section-four {
+
+
+    margin-top: 150px;
+    margin-left: 400px;
+
+    display: flex;
+
+}
+
+.section-four h3,
+p {
+
+    margin: 0;
+    padding: 0;
+}
+
+.section-four .item {
+
+    flex: 1;
+}
