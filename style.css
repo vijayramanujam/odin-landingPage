@@ -34,7 +34,7 @@ a {
 
 header {
 
-    margin: 0 230px;
+    margin: 0 220px;
     margin-top: 25px;
 }
 
@@ -93,10 +93,31 @@ header {
 
 .section-two p {
 
-    width: 120px;
+    width: 128px;
 }
 
 .section-two h2 {
 
     margin-bottom: 50px;
+}
+
+/* section three */
+
+.section-three {
+    margin-top: 100px;
+    margin-left: 350px;
+    font-size: 25px;
+
+}
+
+.section-three p {
+
+    width: 550px;
+    padding: 0 30px;
+
+}
+
+span {
+    font-size: 21px;
+    margin-left: 380px;
 }
