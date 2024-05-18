@@ -6,11 +6,14 @@ h1 {
     margin: 0;
 }
 
+/* navigation */
+
 .nav-container {
 
     display: flex;
     justify-content: space-between;
 }
+
 
 
 li {
@@ -26,11 +29,41 @@ a {
 .sub-nav-container {
 
     display: flex;
-    gap: 30px;
+    gap: 40px;
 }
 
 header {
 
-    margin: 0 250px;
+    margin: 0 230px;
     margin-top: 25px;
+}
+
+
+
+
+/* section one  */
+
+.section-one img {
+
+    width: 450px;
+    height: 200px;
+}
+
+.section-one {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.section-one h1 {
+
+    font-size: 40px;
+}
+
+.section-one div {
+
+    width: 400px;
+    margin-right: 50px;
 }
